@@ -1,0 +1,3 @@
+Meat stock : 50
+Vegetable stock : 50
+Fruit stock : 50

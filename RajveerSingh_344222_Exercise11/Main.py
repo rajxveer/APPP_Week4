@@ -1,0 +1,2 @@
+import Cashier
+Cashier.main()
